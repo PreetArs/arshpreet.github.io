@@ -1,2 +1,2 @@
-# arshpreet.github.io
+# arshpreet.github.io/index.html
 Sample web pages
